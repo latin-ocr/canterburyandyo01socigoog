@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./canterburyandyo01socigoog_0001.png"; bbox 0 0 3619 5868; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 0 3619 5868">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 0 3619 5868">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 0 3619 5868; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 0 0 120 5868; x_wconf 95' lang='lat' dir='ltr'>   </span> <span class='ocrx_word' id='word_1_2' title='bbox 190 0 3619 4864; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 132 4966 3054 5202">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 132 4966 3054 5202">
+     <span class='ocr_line' id='line_1_2' title="bbox 132 4966 3054 5202; baseline 0 -44"><span class='ocrx_word' id='word_1_3' title='bbox 132 4991 1231 5202; x_wconf 71' lang='lat' dir='ltr'>Canterbury</span> <span class='ocrx_word' id='word_1_4' title='bbox 1272 4991 1635 5158; x_wconf 74' lang='lat' dir='ltr'>and</span> <span class='ocrx_word' id='word_1_5' title='bbox 1699 4991 2149 5158; x_wconf 75' lang='lat' dir='ltr'>York</span> <span class='ocrx_word' id='word_1_6' title='bbox 2197 4995 2745 5158; x_wconf 76' lang='lat' dir='ltr'>series</span> <span class='ocrx_word' id='word_1_7' title='bbox 2883 4966 3054 5193; x_wconf 60' lang='lat'>“2</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 120 5335 1809 5444">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 120 5335 1809 5444">
+     <span class='ocr_line' id='line_1_3' title="bbox 120 5335 1809 5444; baseline 0 -18"><span class='ocrx_word' id='word_1_8' title='bbox 120 5335 755 5444; x_wconf 66' lang='lat' dir='ltr'>Canterbury</span> <span class='ocrx_word' id='word_1_9' title='bbox 812 5335 1015 5428; x_wconf 63' lang='lat' dir='ltr'>&amp;md</span> <span class='ocrx_word' id='word_1_10' title='bbox 1074 5335 1331 5428; x_wconf 65' lang='grc' dir='ltr'>ΥΟΓΚ</span> <span class='ocrx_word' id='word_1_11' title='bbox 1384 5335 1809 5444; x_wconf 67' lang='lat' dir='ltr'>society</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 507 5486 3590 5868">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 507 5486 3590 5868">
+     <span class='ocr_line' id='line_1_4' title="bbox 507 5486 3590 5868; baseline 0.006 -18"><span class='ocrx_word' id='word_1_12' title='bbox 507 5575 1060 5808; x_wconf 50' lang='lat' dir='ltr'>&#39;rw‘</span> <span class='ocrx_word' id='word_1_13' title='bbox 1110 5575 1403 5836; x_wconf 50' lang='lat' dir='ltr'>fv»</span> <span class='ocrx_word' id='word_1_14' title='bbox 1448 5575 1732 5850; x_wconf 71' lang='lat' dir='ltr'><em>a</em></span> <span class='ocrx_word' id='word_1_15' title='bbox 1904 5520 3082 5868; x_wconf 37' lang='lat' dir='ltr'>&amp;vam</span> <span class='ocrx_word' id='word_1_16' title='bbox 3201 5486 3220 5517; x_wconf 79' lang='grc'><strong>”</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 3587 5524 3590 5591; x_wconf 74' lang='lat'><em>‘</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

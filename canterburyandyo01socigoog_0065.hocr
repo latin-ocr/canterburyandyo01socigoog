@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./canterburyandyo01socigoog_0065.png"; bbox 0 0 3619 5868; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 548 4897 1608 4974">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 548 4897 1608 4974">
+     <span class='ocr_line' id='line_1_1' title="bbox 548 4897 1608 4974; baseline -0.002 0"><span class='ocrx_word' id='word_1_1' title='bbox 548 4898 643 4974; x_wconf 76' lang='lat' dir='ltr'><strong>ST.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 688 4897 975 4974; x_wconf 62' lang='lat' dir='ltr'><strong>monas</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1018 4897 1102 4973; x_wconf 77' lang='lat' dir='ltr'><strong>of</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1143 4897 1608 4974; x_wconf 62' lang='lat' dir='ltr'><strong>camanum.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1982 4897 2945 4974">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1982 4897 2945 4974">
+     <span class='ocr_line' id='line_1_2' title="bbox 1982 4897 2945 4974; baseline 0.001 -1"><span class='ocrx_word' id='word_1_5' title='bbox 1982 4898 2074 4973; x_wconf 75' lang='lat' dir='ltr'><strong>ST.</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 2118 4897 2403 4973; x_wconf 71' lang='grc' dir='ltr'>ΤΗΟΜΑΒ</span> <span class='ocrx_word' id='word_1_7' title='bbox 2447 4898 2529 4972; x_wconf 76' lang='lat' dir='ltr'><strong>of</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 2574 4898 2945 4974; x_wconf 75' lang='grc' dir='ltr'>ΗΕΒΕΡΟΒΠ.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 375 628 3119 4774">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 375 628 3119 4774">
+     <span class='ocr_line' id='line_1_3' title="bbox 375 628 3119 4774; textangle 180"><span class='ocrx_word' id='word_1_9' title='bbox 375 628 3119 4774; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
